@@ -1,0 +1,372 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  esp.cpp
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319: '~': zero extending 'T' to 'T' of greater size
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         with
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         [
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:             T=uint32_t
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         ]
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         and
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         [
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:             T=uintptr_t
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         ]
+  (compiling source file 'src/features/esp/esp.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(100,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/features/esp/esp.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(101,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/features/esp/esp.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(102,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/features/esp/esp.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(103,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/features/esp/esp.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(136,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/esp/esp.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(137,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/esp/esp.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(138,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/esp/esp.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(201,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/esp/esp.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(202,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/esp/esp.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xutility(5094,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'src/features/esp/esp.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xutility(5094,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\sdk.h(200,27):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\sdk.h(200,9):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'BasePlayer::_displayName'
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(862,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1018,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  silent aim.cpp
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319: '~': zero extending 'T' to 'T' of greater size
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         with
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         [
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:             T=uint32_t
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         ]
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         and
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         [
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:             T=uintptr_t
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         ]
+  (compiling source file 'src/features/silent%20aim/silent%20aim.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(100,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/features/silent%20aim/silent%20aim.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(101,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/features/silent%20aim/silent%20aim.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(102,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/features/silent%20aim/silent%20aim.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(103,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/features/silent%20aim/silent%20aim.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(136,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/silent%20aim/silent%20aim.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(137,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/silent%20aim/silent%20aim.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(138,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/silent%20aim/silent%20aim.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(201,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/silent%20aim/silent%20aim.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(202,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/silent%20aim/silent%20aim.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xutility(5094,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'src/features/silent%20aim/silent%20aim.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xutility(5094,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\sdk.h(200,27):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\sdk.h(200,9):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'BasePlayer::_displayName'
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(862,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1018,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  misc.cpp
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319: '~': zero extending 'T' to 'T' of greater size
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         with
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         [
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:             T=uint32_t
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         ]
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         and
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         [
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:             T=uintptr_t
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         ]
+  (compiling source file 'src/features/misc/misc.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(100,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/features/misc/misc.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(101,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/features/misc/misc.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(102,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/features/misc/misc.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(103,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/features/misc/misc.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(136,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/misc/misc.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(137,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/misc/misc.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(138,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/misc/misc.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(201,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/misc/misc.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(202,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/features/misc/misc.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xutility(5094,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'src/features/misc/misc.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xutility(5094,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\sdk.h(200,27):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\sdk.h(200,9):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'BasePlayer::_displayName'
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(862,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1018,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  main.cpp
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319: '~': zero extending 'T' to 'T' of greater size
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         with
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         [
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:             T=uint32_t
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         ]
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         and
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         [
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:             T=uintptr_t
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         ]
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(100,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(101,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(102,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(103,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(136,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(137,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(138,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(201,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(202,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/main.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xutility(5094,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'src/main.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xutility(5094,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\sdk.h(200,27):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\sdk.h(200,9):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'BasePlayer::_displayName'
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(862,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1018,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  overlay.cpp
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319: '~': zero extending 'T' to 'T' of greater size
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         with
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         [
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:             T=uint32_t
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         ]
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         and
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         [
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:             T=uintptr_t
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\decryption.h(21,88): warning C4319:         ]
+  (compiling source file 'src/overlay/overlay.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(100,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/overlay/overlay.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(101,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/overlay/overlay.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(102,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/overlay/overlay.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(103,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/overlay/overlay.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(136,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/overlay/overlay.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(137,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/overlay/overlay.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(138,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/overlay/overlay.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(201,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/overlay/overlay.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\math.h(202,6): warning C4552: '/': result of expression not used
+  (compiling source file 'src/overlay/overlay.cpp')
+  
+C:\Users\l'\Downloads\Rust_External\Rust External\src\overlay\overlay.cpp(360,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xutility(5094,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'src/overlay/overlay.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xutility(5094,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\sdk.h(200,27):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\l'\Downloads\Rust_External\Rust External\src\sdk\sdk.h(200,9):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'BasePlayer::_displayName'
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(862,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1018,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2332 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  project.vcxproj -> C:\Users\l'\Downloads\Rust_External\Rust External\build\rust.exe
